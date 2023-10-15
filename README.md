@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data Science Projects
 <h2 align="left">Project 1 :</h2>
 <h3 align="left"><a href="https://github.com/HoussemEddineWeslati/Molecule-Design-Data-Science-Project">Streamlit application: Molecule Generation and bioavctivity Prediction   </a></h3>
 
