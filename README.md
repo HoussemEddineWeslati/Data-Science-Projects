@@ -43,20 +43,6 @@ The project is built upon a Convolutional Neural Network (CNN) architecture and 
 - Cloud deployment using Google Cloud Platform.
 
 <h2 align="left">Project 4 :</h2>
-<h3 align="left"><a href="https://github.com/HoussemEddineWeslati/potato-disease-classification-Deployment-To-GCP">Potato Disease Classification With Deployment To GCP</a></h3>
-
-**Summary:**
-The project is built upon a Convolutional Neural Network (CNN) architecture and makes use of the TensorFlow ImageDataGenerator API for data preprocessing. The model is optimized using TensorFlow Lite and deployed on Google Cloud Platform, with an efficient backend powered by FastAPI and TensorFlow Serving, along with Docker for deployment.<br>
-**Details:**
-- Architecture: Convolutional Neural Network (CNN) using TensorFlow.
-- Deployment: Optimization with TensorFlow Lite, deployment on Google Cloud Platform.
-- Backend: Powered by FastAPI and TensorFlow Serving, Docker for efficiency.<br>
-
-**Skills Acquired:**
-- Building and deploying deep learning models.
-- Backend development with FastAPI.
-- Cloud deployment using Google Cloud Platform.
-<h2 align="left">Project 5 :</h2>
 <h3 align="left"><a href="https://github.com/HoussemEddineWeslati/chronic-kidney-disease-Prediction-using-Machine-Learning">Machine Learning Project: chronic kidney disease Prediction</a></h3>
 
 **Summary:**
